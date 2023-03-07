@@ -37,4 +37,4 @@ git clone https://github.com/jpedr0c/42_gnl.git
 3. Finally, compile the source files along with your code
 
 ## ⚠️ Notes
-This project is for educational purposes only and should not be used in production. Also, some of these functions may not be optimized or follow the latest C language standards. Therefore, use them with caution.
+This project is for educational purposes only and should not be used in production. Also, this function may not be optimized or follow the latest C language standards. Therefore, use them with caution.
